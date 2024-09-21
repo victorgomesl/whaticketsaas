@@ -12,7 +12,11 @@ Sabemos como pode ser desafiador gerenciar múltiplos canais de comunicação. P
 
 ## 📌 Integrações
 
-<img src="https://i.postimg.cc/CxJmZYZk/Group-26.png" />
+O Whaticket SAAS oferece uma ampla gama de integrações para facilitar a comunicação e automação com seus clientes. Entre as principais integrações disponíveis estão o WhatsApp, permitindo a gestão de tickets diretamente pelo aplicativo de mensagens mais utilizado no mundo, e Facebook e Instagram, que conectam as redes sociais ao sistema para um atendimento mais completo. Além disso, o Whaticket integra-se ao DialogFlow e OpenAI para potencializar suas interações com clientes por meio de inteligência artificial avançada e chatbots automatizados.
+
+Para fluxos mais personalizados e automatizados, você pode utilizar o N8N e o Typebot, que permitem criar automações robustas de forma visual. Ferramentas como Webhook, Cloudflare, e SMTP garantem uma infraestrutura segura e flexível, enquanto o MK-AUTH facilita a autenticação de usuários. Outras integrações notáveis incluem ChatGPT, que eleva as interações por IA a um novo patamar, DialogFlow para chatbots personalizáveis, e sistemas como Gerencianet e EFI, que ampliam ainda mais as funcionalidades do sistema.
+
+Essas integrações foram projetadas para proporcionar uma experiência eficiente, conectando diversas plataformas e garantindo que sua empresa esteja sempre pronta para atender com agilidade e inovação.
 
 <br /><br />
 
