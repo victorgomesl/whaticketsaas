@@ -64,7 +64,7 @@ sudo ./whaticketsaas
 ✨ Integração com o Pixel do Facebook: Acompanhe e registre conversões com o pixel do Facebook  
 ✨ Integração com Site: Poder receber notificações de visitas  
 ✨ Integração com Webhook: Utilize webhooks para conectar com outros sistemas e automatizar processos  
-✨ Integração com Open AI / ChatGPT
+✨ Integração com Open AI / ChatGPT  
 ✨ Logotipo / Marca Própria  
 ✨ Marcação Fantasma em Grupos  
 ✨ Mensagens Agendadas com Anexo  
